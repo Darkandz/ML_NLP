@@ -1,2 +1,2 @@
-ЭТО ХУЕТА НЕ ЗАПУСКАЕТСЯ В Colab е
+https://colab.research.google.com/drive/1OowDoBnucMAdTh6cGuMt06BmFqGTCSvK
 
