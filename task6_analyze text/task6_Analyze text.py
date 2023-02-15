@@ -2,6 +2,7 @@ DATA_URL = "http://az.lib.ru/t/tolstoj_a_k/text_0180.shtml"
 more_words_count = 100
 tokens_more_count = 20
 
+%tensorflow_version 1.x
 import nltk
 import warnings
 import urllib.request
